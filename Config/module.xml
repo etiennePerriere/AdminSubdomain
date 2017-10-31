@@ -4,7 +4,7 @@
         xsi:schemaLocation="http://thelia.net/schema/dic/module http://thelia.net/schema/dic/module/module-2_2.xsd">
     <fullnamespace>AdminSubdomain\AdminSubdomain</fullnamespace>
     <descriptive locale="fr_FR">
-        <title>Module généré automatiquement - éditez le fichier module.xml</title>
+        <title>Accéder à l'interface d'administration via un sous-domaine spécifique</title>
     </descriptive>
     <descriptive locale="en_US">
         <title>Use a subdomain to access the administration panel of your Thelia</title>
@@ -13,7 +13,7 @@
         <language>en_US</language>
         <language>fr_FR</language>
     </languages>
-    <version>0.2.4</version>
+    <version>0.2.5</version>
     <authors>
         <author>
             <name>Gilles Bourgeat</name>
